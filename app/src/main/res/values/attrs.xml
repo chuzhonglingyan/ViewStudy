@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="CustomTitleView">
+        <attr name="titleText" format="string" />
+        <attr name="titleTextColor" format="color" />
+        <attr name="titleTextSize" format="dimension" />
+    </declare-styleable>
+
+    <declare-styleable name="DrawView">
+        <attr name="drawView_titleText" format="string" />
+        <attr name="drawView_titleTextColor" format="color" />
+        <attr name="drawView_titleTextSize" format="dimension" />
+    </declare-styleable>
+
+</resources>
