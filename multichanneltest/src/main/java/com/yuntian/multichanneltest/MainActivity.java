@@ -1,7 +1,7 @@
-package com.yuntian.customrview;
+package com.yuntian.multichanneltest;
 
-import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
+import android.os.Bundle;
 
 public class MainActivity extends AppCompatActivity {
 
